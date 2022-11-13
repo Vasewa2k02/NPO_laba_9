@@ -1,0 +1,309 @@
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.exe
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.api.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.core.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.deps.json
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.runtimeconfig.json
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.pdb
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.framework.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\WebDriver.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.AssemblyReference.cache
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfoInputs.cache
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfo.cs
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CoreCompileInputs.cache
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CopyComplete
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\refint\AutoTesting.dll
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.pdb
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.genruntimeconfig.cache
+D:\study\3 курс\НПО\AutoTesting\AutoTesting\obj\Debug\net6.0\ref\AutoTesting.dll
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.AssemblyReference.cache
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfoInputs.cache
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfo.cs
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CoreCompileInputs.cache
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.dll
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\refint\AutoTesting.dll
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.pdb
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.exe
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.api.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.core.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.deps.json
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.runtimeconfig.json
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.pdb
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.framework.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\WebDriver.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CopyComplete
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.genruntimeconfig.cache
+D:\study\3 курс\AutoTesting\AutoTesting\obj\Debug\net6.0\ref\AutoTesting.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.exe
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\testhost.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.api.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.engine.core.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.deps.json
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.runtimeconfig.json
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\AutoTesting.pdb
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\nunit.framework.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\WebDriver.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.AssemblyReference.cache
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.GeneratedMSBuildEditorConfig.editorconfig
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfoInputs.cache
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.AssemblyInfo.cs
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CoreCompileInputs.cache
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.csproj.CopyComplete
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\refint\AutoTesting.dll
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.pdb
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\AutoTesting.genruntimeconfig.cache
+F:\__3 курс 1 сем\НПО\laba_9\AutoTesting\AutoTesting\obj\Debug\net6.0\ref\AutoTesting.dll
